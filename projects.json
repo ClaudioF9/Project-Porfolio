@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Prework Study Guide",
+        "link": "https://claudiof9.github.io/prework-study-guide/",
+        "github": "https://github.com/ClaudioF9/prework-study-guide",
+        "image": "image url"
+    },
+    {
+        "id": 2,
+        "name": "Mock Football News Page",
+        "link": "https://claudiof9.github.io/Football/",
+        "github": "https://github.com/ClaudioF9/Football",
+        "image": "image url"
+    },
+    {
+        "id": 3,
+        "name": "Work Day Scheduler",
+        "link": "https://claudiof9.github.io/Work-Day-Scheduler/",
+        "github": "https://github.com/ClaudioF9/Work-Day-Scheduler",
+        "image": "image url"
+    },
+    {
+        "id": 4,
+        "name": "SuperHero Database",
+        "link": "https://claudiof9.github.io/The-Unstoppable-Hero-Database/",
+        "github": "https://github.com/ClaudioF9/The-Unstoppable-Hero-Database",
+        "image": "image url"
+    },
+    {
+        "id": 5,
+        "name": "Password Generator",
+        "link": "https://claudiof9.github.io/Password-Generator-Website/",
+        "github": "https://github.com/ClaudioF9/Password-Generator-Website",
+        "image": "image url"
+    },
+    {
+        "id": 6,
+        "name": "JavaScript Quiz Game",
+        "link": "https://claudiof9.github.io/JavaScript-Quiz-Game/",
+        "github": "https://github.com/ClaudioF9/JavaScript-Quiz-Game",
+        "image": "image url"
+    },
+]
