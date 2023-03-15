@@ -1,0 +1,13 @@
+nav.navbar.navbar-default {
+  margin-bottom: 0;
+}
+
+.nav {
+  background-color: black;
+  justify-content: end;
+}
+
+.nav-link.active {
+  background-color: blue !important;
+  color: white !important;
+}
